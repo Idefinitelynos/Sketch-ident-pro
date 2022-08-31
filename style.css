@@ -1,0 +1,16 @@
+body {
+    background-color: lightgreen;
+}
+#score {
+    font-size: 30px;
+    float:left;
+    margin-left: 25px;
+}
+#Snack {
+    font-size: 30px;
+    float: right;
+    margin-right: 25px;
+}
+#Factory {
+    color: crimson;
+}
